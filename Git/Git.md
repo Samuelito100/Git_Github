@@ -1,4 +1,4 @@
-# Sistemi di Versioning: Git
+# Sistemi di Versioning: Git.
 
 Git è un sistema di controllo versione distribuito che consente di tenere traccia delle modifiche nel codice sorgente durante lo sviluppo software. Di seguito sono riportati i comandi principali e le loro funzionalità, insieme a una spiegazione delle strategie di merging e gestione dei branch.
 
